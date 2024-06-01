@@ -1,18 +1,43 @@
-/*  your css code here. If applicable */
 #yellow{
     border-width: 1px;
     border-color: green;
     background-color: yellow;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-right-style: solid;
+    border-left-style: solid;
+    border-top-width: 3px;
+    border-bottom-width: 3px;
+    border-right-width: 3px;
+    border-left-width: 3px;
 }
+
 
 #red{
     border-width: 1px;
     border-color:black;
     background-color: red;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-right-style: solid;
+    border-left-style: solid;
+    border-top-width: 3px;
+    border-bottom-width: 3px;
+    border-right-width: 3px;
+    border-left-width: 3px;
 }
+
 
 #green{
     border-width: 1px;
     border-color: yellow;
     background-color: green;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-right-style: solid;
+    border-left-style: solid;
+    border-top-width: 3px;
+    border-bottom-width: 3px;
+    border-right-width: 3px;
+    border-left-width: 3px;
 }
